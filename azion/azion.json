@@ -1,0 +1,63 @@
+{
+  "name": "hire-css-dev-notes",
+  "bucket": "hire-css-dev-notes",
+  "preset": "vue",
+  "env": "production",
+  "prefix": "20261026200931",
+  "rotate-prefix": true,
+  "not-first-run": true,
+  "function": [],
+  "application": {
+    "id": 1793040631,
+    "name": "hire-css-dev-notes"
+  },
+  "domain": {
+    "id": 0,
+    "name": "__DEFAULT__",
+    "domain_name": "",
+    "url": ""
+  },
+  "rt-purge": {
+    "purge_on_publish": true
+  },
+  "origin": null,
+  "rules-engine": {
+    "created": false,
+    "rules": [
+      {
+        "id": 1184336,
+        "name": "Deliver Static Assets and Set Cache Policy",
+        "phase": "request"
+      },
+      {
+        "id": 1184337,
+        "name": "Redirect to index.html",
+        "phase": "request"
+      }
+    ]
+  },
+  "cache-settings": [
+    {
+      "id": 378321,
+      "name": "hire-css-dev-notes"
+    }
+  ],
+  "workloads": {
+    "id": 1793049495,
+    "name": "hire-css-dev-notes",
+    "domains": [],
+    "url": "https://3h0awnycvgu.map.azionedge.net",
+    "deployment_id": [
+      {
+        "id": 346635,
+        "name": "hire-css-dev-notes"
+      }
+    ]
+  },
+  "connectors": [
+    {
+      "id": 197879,
+      "name": "hire-css-dev-notes"
+    }
+  ]
+}
